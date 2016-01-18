@@ -1,0 +1,2 @@
+- Modificar Diagrama de Clases para hacer que el Servidor sea dinámico
+- 

@@ -1,0 +1,5 @@
+D:\UTN\TERCER AÑO\TALLER DE PROGRAMACION\Projectos\ProyectoFinal\Modelo\bin\Debug\Modelo.dll
+D:\UTN\TERCER AÑO\TALLER DE PROGRAMACION\Projectos\ProyectoFinal\Modelo\bin\Debug\Modelo.pdb
+D:\UTN\TERCER AÑO\TALLER DE PROGRAMACION\Projectos\ProyectoFinal\Modelo\obj\Debug\Modelo.dll
+D:\UTN\TERCER AÑO\TALLER DE PROGRAMACION\Projectos\ProyectoFinal\Modelo\obj\Debug\Modelo.pdb
+D:\UTN\TERCER AÑO\TALLER DE PROGRAMACION\Projectos\ProyectoFinal\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
